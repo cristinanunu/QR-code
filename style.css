@@ -19,6 +19,10 @@ body {
   justify-items: center;
 }
 
+body p {
+  font-size: 15px;
+}
+
 .container {
   width: 1020px;
   height: 800px;
@@ -62,8 +66,8 @@ body {
   margin-top: -35px;
 }
 
-.content p {
-  font-size: 15px;
+.content h1 {
+  font-size: 22px;
 }
 
 .attribution { font-size: 11px; text-align: center; }
